@@ -5,7 +5,7 @@ It creates a 48 passwords that is mostly used by the user of this tech era
 
 # installation
 
-git clone white-security/wordlist-creator
+git clone https://github.com/white-security/wordlist-creator.git
 
 cd wordlist-creator
 
