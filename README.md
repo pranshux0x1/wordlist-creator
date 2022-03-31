@@ -5,6 +5,6 @@ It creates a 48 passwords that is mostly used by the user of this tech era
 
 # installation
 
-git clone repo clone white-security/wordlist-creator\n
-cd wordlist-creator\n
+git clone repo clone white-security/wordlist-creator
+cd wordlist-creator
 python wordlist.py
