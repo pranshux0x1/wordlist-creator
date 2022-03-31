@@ -9,6 +9,6 @@ git clone https://github.com/white-security/wordlist-creator.git
 
 cd wordlist-creator
 
-python wordlist.py
+python3 wordlist.py
 
 It saves the file with first_name.txt
