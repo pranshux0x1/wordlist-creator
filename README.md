@@ -11,4 +11,6 @@ cd wordlist-creator
 
 python3 wordlist.py
 
+# file
+
 It saves the file with first_name.txt
