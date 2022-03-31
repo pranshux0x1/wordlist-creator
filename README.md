@@ -1,5 +1,10 @@
 # wordlist-creator
 This python script create a wordlist for you that  is very effective in brute force account
 
-Run it with 
-python3 wordlist.py
+It creates a 48 passwords that is mostly used by the user of this tech era
+
+# installation
+
+git clone gh repo clone white-security/wordlist-creator
+cd wordlist-creator
+python wordlist.py
